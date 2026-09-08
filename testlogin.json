@@ -1,0 +1,21 @@
+[ 
+    
+  {
+    "id":1,
+    "username":"amaranath1@gmail.com",
+    "password":"admin@1234"
+  },
+
+  {
+    "id":2,
+    "username":"amaranath2@gmail.com",
+    "password":"admin@1234"
+  },
+
+  {
+    "id":3,
+    "username":"amaranath3gmail.com",
+    "password":"admin@1234"
+  } 
+
+]  
